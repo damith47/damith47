@@ -1,4 +1,4 @@
-![logo](https://github.com/damith47/damith47/blob/main/Github%20Banner.png.png)
+![logo](https://github.com/damith47/damith47/blob/main/Github%20Banner.png.jpg)
 
 <h3 align="center">👋 Hi I'm Damith Tharuka</h3>
 
