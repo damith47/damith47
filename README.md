@@ -2,7 +2,7 @@
 
 <h3 align="center">👋 Hi I'm Damith Tharuka</h3>
 
-<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/damith47/damith47/blob/main/Side%20Image.gif">
 
 - 🧰 I’m currently working at **Allion Technologies**
 
